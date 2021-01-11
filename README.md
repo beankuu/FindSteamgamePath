@@ -1,6 +1,6 @@
 # FindSteamgamePath
 
-Find Steam Installed Directory based on its manifest number in Windows
+Shell Script for finding Steam Program's installed path based on its manifest number in Windows
 
 ## Usage
 
@@ -14,9 +14,9 @@ Find Steam Installed Directory based on its manifest number in Windows
 
 ## Future works?
 
-maybe in PS1 / bat
+maybe rewrite in PS1 / bat
 
-maybe support linux
+maybe support for the linux
 
 maybe additional works for catching errors like
 - "script outputs dir where the Steam program was NOT properly uninstalled"
